@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sandromastronardi
 - 👀 I’m interested in programming in .NET, Software and Cloud Architecture, Microservices and Acting... like real acting
-- 🌱 I’m currently learning lots of things
+- 🌱 I’m always learning lots of things
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me twitter.com/mastrosoft
 
